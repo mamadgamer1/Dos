@@ -1,0 +1,2 @@
+python3 -m pip install socket
+python3 -m pip install colorama
